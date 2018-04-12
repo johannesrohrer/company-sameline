@@ -6,6 +6,7 @@
 ;; Created: 2018-04-11
 ;; Package-Requires: ((emacs "25.1") (company "0.9.6")
 ;; Keywords: abbrev, completion, convenience
+;; Homepage: https://github.com/johannesrohrer/company-sameline
 
 ;; This file is not part of GNU Emacs.
 
